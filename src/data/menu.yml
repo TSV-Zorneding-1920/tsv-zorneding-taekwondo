@@ -1,0 +1,9 @@
+menu_entry:
+  - title: Wir über uns
+    page: /wir-ueber-uns
+  - page: /trainingszeiten
+    title: Trainingszeiten
+  - page: /was-ist-classic-taekwondo
+    title: Was ist Classic Taekwondo
+  - page: /wissenswertes
+    title: Wissenswertes
